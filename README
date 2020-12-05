@@ -1,0 +1,7 @@
+Google Authenticator integration with Spring Boot.
+
+To Run:
+
+Import project and build as spring boot application.
+
+Application deployed can be accessed at following endpoint localhost:8000/
